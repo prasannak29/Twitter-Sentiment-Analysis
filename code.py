@@ -24,7 +24,7 @@ def clean_tweet(tweet):
 	tweet=' '.join(str1)
 	return tweet
 
-def get():
+def extractsentiment():
   if((E1.get())=='' or (E2.get())==''):
     tkMessageBox.showerror("WARNING","Fill all the information properly")
   else:
@@ -97,7 +97,7 @@ E1=Entry(root,bd=5)
 label2=Label(root,text="ENTER NO. OF TWEETS")
 num=IntVar()
 E2=Entry(root,bd=5,textvariable=num)
-submit=Button(root,text="SUBMIT",command=get)
+submit=Button(root,text="SUBMIT",command=extractsentiment)
 
 label1.pack()
 E1.pack()
