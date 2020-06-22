@@ -1,7 +1,7 @@
 
 #create your account on twitter API and create project
 #generate access token and access token secret and use it in your code 
- Consumer Key (API Key)- oxONmXRovraAn5e1hvB1KArmn
- Consumer Secret (API Secret)- LeMTUgRzE1Zo0LeELRYlPNBAbq4wB2jxDdXSJv31JYX8iN3HH5
- Access Token -1017434300986241024-R13fGLuaxYNpN5zhZYmQSePhO0IBpR
- Access Token Secret- ANJbPw5DwS9L6CNMAl0EJH9r8nPVrRx8GxshYjz45M0WE   
+ Consumer Key (API Key)-
+ Consumer Secret (API Secret)- 
+ Access Token -
+ Access Token Secret-  
